@@ -1,0 +1,656 @@
+.panel-default {
+	border:none;
+}
+
+
+.panel-body {
+	margin-left: 1.7em;
+}
+.icon-size {
+	font-size: 2em;
+	font-family: 'Oswald', sans-serif;
+}
+
+.celsius {
+	margin-left: 3em;
+	margin-top: -3em;
+	font-family: arial;
+	font-family: 'Oswald', sans-serif;
+	font-size: 12px;
+}
+
+.date {
+	margin-left: 14.5em;
+	margin-top: -2.17em;
+	font-family: arial;
+	font-size: 12px;
+}
+
+.lng {
+	margin-left: 28.5em;
+	margin-top: -2.17em;
+}
+.lng span {
+  padding-left: 1.2em;
+  font-family: arial;
+}
+
+.lng a {
+	text-decoration: none;
+	color: #000;
+	font-size: 12px;
+}
+
+.lng a:hover {color:#0CBDAB;}
+
+.social {
+	margin-left: 62em;
+	margin-top: -2em;
+}
+
+.social a {
+	text-decoration: none;
+}
+ 
+.fa {
+    padding: 11px;
+    font-size: 14px;
+    width: 36px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-envelope-o {
+	background: #dd4b39;
+    color: white; 
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-vk {
+	background: #125688;
+    color: white;
+}
+
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.header {
+	 margin-top: -1em;
+	 height: 21.4em;
+	 background-color: #fff; 
+
+}
+.header img {
+	margin-left: -4.35em;
+	margin-top: -3.4855em;
+}
+
+.header h1 {
+	margin-left: 5.5em;
+	margin-top: -4em;
+	font-family: armbold;
+}
+
+.header h3{
+     margin-left: 10.3em;
+     margin-top: 1.5em;
+     font-family: armbold;
+}
+
+.navbar-inverse {
+   border-radius: 0px;
+   border-top: 4px solid #0CBDAB;
+   color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #fff;
+    color: #000;
+}
+
+.mainContent {
+	margin-top: -1.3em;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 102.8%;
+    height: auto;
+    margin-top: -0.15em
+}
+
+	input[type=text] {
+    width: 32px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    background-image: url(../img/loop.png);
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+    padding: 5px 0px 3px 37px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+	width: 115%;
+}
+
+.arcticle h3 {
+	margin-top: -6.4em;
+	color: #fff;
+	width: 69.1%;
+	background-color: #000;
+	opacity: 0.6;
+	padding: 0.5em 1.5em 0.5em 0.5em;
+}
+
+.arcticle small {
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.arcticle a {
+	text-decoration: none;
+}
+
+.usa-china img:hover {
+	 background-color: #fff;
+	 opacity: 0.8;		   
+}
+
+.arcticle h3:hover, small:hover {
+	color: #0CBDAB;
+}
+
+.allArcticles {
+    border: 1px solid silver;
+    margin-top: -43em;
+    height: 200em;
+    width: 100%;
+    border-top: none;
+    border-bottom: none;  
+}
+
+.video {
+    border: 1px solid silver;
+    height: 65em;
+    width: 33.455%;
+    margin-top: 30.4em;
+    margin-left: -40.55em;
+    border-top: none;
+    border-left: none;
+}
+
+.freshNews {
+    border: 1px solid silver;
+    height: 20em;
+    width: 68.45%;
+    margin-left: 26.15em;
+    margin-top: -20em;
+    border-top: none;
+}
+
+.video h5 {
+    margin-top: 5em;
+    font-weight: bold;
+    color: #fff;
+    background-color: red;
+    width: 14em;
+    margin-left: 5.5em;
+    padding: -1em;
+    padding-left: 1.5em;
+}
+
+.video a, .freshNews a {
+    text-decoration: none;
+}
+
+.video h5:hover {
+    background-color: #fff;
+    color: red;
+    border:1px solid red;
+}
+
+.videoContent {
+    margin-top: 5em;
+}
+
+
+.videoContent>.video1 {
+    margin-top: 38em;
+    margin-left: -40.5em;;
+}
+
+.video2 {
+    margin-top: 57em;
+    margin-left: -40.5em;
+}
+
+.video3 {
+    margin-top: 75.5em;
+    margin-left: -40.5em;
+}
+
+
+.freshNews h5 {
+    color: #fff;
+    margin-top: -40.4em;
+    margin-left: 19.5em;
+    background-color: orange;
+    width: 15em;
+    font-weight: bold;
+}
+
+.freshNews h5:hover {
+    background-color: #fff;
+    color: orange;
+    border:1px solid orange;
+} 
+
+.allInOne {
+    margin-left: 66em;
+    margin-top: -60em;
+}
+
+.allInOne li a {
+    text-decoration: none;
+}
+
+.allInOne li a:hover {
+    color: orange;
+    background-color: #fff;
+}
+
+.btn-default:hover, .allInOne>.dropdown-menu>ul {
+    color: orange;
+    border:1px solid orange;
+    background-color: #fff;
+}
+
+.news {
+    width: 50%;
+    margin-left: 26.5em;
+    margin-top: -52.4em;
+}
+
+.news img {
+    margin-top: -0,5em;
+    width: 135%;
+    margin-left: -1em;
+}
+
+.news h4 {
+    font-size: 20px;
+    margin-top: 2em;
+    margin-left: 1.5em;
+}
+
+.news a {
+    text-decoration: none;
+    color: #000;
+}
+
+.news h4:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+.news img:hover {
+    opacity: 0.5;
+}
+
+.news span {
+    margin-left: 2.8em;
+    font-size: 11px;
+    margin-top: 0.3em;
+}
+
+.prev-next {
+    margin-left: 34em;
+    margin-top: -8em;
+    width: 10em;
+}
+
+.prev-next span {
+    border:1px solid silver;
+    padding: 0.3em;
+    color: #000;
+}
+
+.prev-next span:hover {
+    border:1px solid orange;
+    color: orange;
+}
+
+.topic1 {
+    width: 45%;
+    margin-left: 65em;
+    margin-top: -52.4em;
+}
+
+.topic2 {
+    width: 45%;
+    margin-left: 65em;
+    margin-top: -36em;
+}
+
+.topic3 {
+   width: 52%;
+    margin-left: 65em;
+    margin-top: -21.5em;
+}
+
+.topic4 {
+   width: 45%;
+   margin-left: 66em;
+   margin-top: -13.5em;
+}
+
+
+.topic1:hover, .topic2:hover, .topic3:hover, .topic4:hover {
+    border:1px solid orange;
+    width: 13em;
+    padding-top: 0.5em;
+    padding-left: 0.85em;
+}
+
+.topic1 h4, .topic2 h4, .topic3 h4, .topic4 h4 {
+    font-size: 14px;
+    width: 12em;
+}
+
+.topic3 h4, .topic4 h4 {
+    margin-left: 1.1em;
+}
+
+
+.topic1 a, .topic2 a, .topic3 a, .topic4 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.topic1 h4:hover, .topic2 h4:hover, .topic3 h4:hover, .topic4 h4:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+
+
+/* Main content starts here */
+
+.last-arcticles {
+    height: 52.5em;
+    border: 1px solid silver;
+    border-top: none;
+}
+
+.line {
+    border-left: 1px solid silver;
+    height: 10em;
+    margin-left: -1.3em;
+    height: 155em;
+}
+
+
+.story {
+    margin-top: -50em;
+    height: 100.5em;
+    border-bottom: 1px solid silver;
+}
+
+.events {
+    height: 104.5em;
+    margin-left: 56.5em;
+    margin-top: -104.5em; 
+}
+ 
+ #demo {
+    margin-left: 8.1em;
+    margin-top: 1.5em;
+ }
+
+.event {
+    margin-top: 2em;
+    background-color: #000;
+    color: #fff;
+    padding-top: 0.5em;
+}
+
+.event:hover {
+    border:1px solid black;
+    background-color: #fff;
+    color: black;
+}
+
+.event span {
+    margin-left: 0.8em;
+    margin-top: 0.28em;
+}
+
+.china {
+    margin-top: -54.3em;
+    margin-left: -2em;
+    width: 38%;
+}
+
+.china h4 {
+    margin-left: 4.5em;
+    margin-top: 3em;
+}
+
+.china span {
+    margin-left: 5.8em;
+}
+
+.brazil-africa {
+  margin-top: -54.3em;
+  margin-left: 30em;
+  width: 32%;
+}
+
+.brazil-africa h4, .rus-philip h4 {
+    margin-top: 2.2em;
+    margin-left: 4.73em;
+}
+
+
+.brazil-africa span {
+    margin-left: 6em;
+}
+
+.rus-philip {
+    margin-top: -22em;
+    margin-left: -1.6em;
+    width: 30.7%;   
+}
+
+.rus-philip h4 {
+    margin-top: 0.8em;
+    margin-left: 2em;
+}
+
+.rus-philip span {
+    margin-left: 2.7em; 
+}
+
+
+.shushi2 {
+    margin-top: -22em;
+    margin-left: 21.5em;
+    width: 45%;
+}
+
+.shushi2 img {
+    height: 15.2em;
+    width: 32.5em;
+}
+
+.shushi2 h4 {
+    margin-top: 2.8em;
+    margin-left: 2em;
+}
+
+.shushi2 span {
+   margin-left: 2.5em;
+}
+
+
+.ussr {
+    margin-top: 2em;
+    margin-left: -2em;
+    width: 33%;
+}
+
+.ussr h4 {
+    margin-top: 1.5em;
+    margin-left: 6em;
+}
+
+.ussr span {
+    margin-left: 4.2em;   
+}
+
+.terror {
+    margin-top: 2em;
+    width: 39.7%;
+      margin-left: -0.2em;
+}
+
+.terror h4, .syria h4, .libia h4, .arm-rus h4 {
+    margin-top: 1em;
+
+} 
+
+.syria {
+    margin-top: 35.5em;
+    margin-left: -57.3em;
+    width: 37.9%;
+}
+
+.libia {
+    margin-top: 5.35em;
+    width: 35.7%;
+    margin-left: -0.9em;
+}
+
+.arm-rus {
+    margin-top: 3em;
+    margin-left: -2em;
+}
+
+.changes {
+    margin-top: 3em;
+    width: 40.5%;
+    margin-left: -1.2em;
+}
+
+.changes h4 {
+    margin-top: 2.5em;
+    margin-left: 1.5em;
+}
+
+.changes span {
+    margin-left: 2em;
+}
+
+.china img:hover, .brazil-africa img:hover, .rus-philip img:hover, .shushi2 img:hover, .ussr img:hover, 
+.terror img:hover, .syria img:hover, .libia img:hover, .arm-rus img:hover, .changes img:hover {
+    opacity: 0.6;
+}
+
+.china h4:hover, .brazil-africa h4:hover, .rus-philip h4:hover, .shushi2 h4:hover, .ussr h4:hover, 
+.terror h4:hover, .syria h4:hover, .libia h4:hover, .arm-rus h4:hover, .changes h4:hover {
+    color: #0000cc;
+    
+}
+
+.china a, .brazil-africa a, .rus-philip a, .shushi2 a, .ussr a, .terror a, .syria a, .libia a, .arm-rus a, .changes a {
+    text-decoration: none;
+    color: #000;
+}
+
+
+.pages {
+    margin-top: 35em;
+    margin-left: -35em;
+}
+
+.pagination>li>a:last-child {
+    margin-left: 0.05em;
+}
+
+.pagination>li>a:hover {
+    background-color: #fff;
+    color: black;
+    border:1px solid black;
+}
+
+
+/* Main content ends here */
+
+
+/* Media queries start here */
+
+@media only screen and (max-width: 768px) {
+    .social {
+    	margin-left:17em;
+    	margin-top: 3em;
+    }
+   
+    .navbar-left {
+    margin-left: 19em;
+}
+
+    .usa-china {
+    	width: 57%;
+    }
+
+    .arcticle {
+    	width: 174%;
+    }
+
+    .arcticle h3 {
+    	font-size: 27px;
+	}	
+
+.arcticle small {
+	font-size: 17px;
+    } 
+
+.header h1 {
+	margin-left: 4.1em;
+
+    }
+
+.header h3 {
+	margin-left: 10.8em;
+}
+
+   } 
